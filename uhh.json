@@ -1,1 +1,25 @@
-{"as":"AS12389 PJSC Rostelecom","city":"Moscow","country":"Russia","countryCode":"RU","isp":"Rostelecom","lat":55.7558,"lon":37.6173,"org":"PJSC Rostelecom","query":"213.87.120.55","region":"MOW","regionName":"Moscow","status":"success","timezone":"Europe/Moscow","zip":"101000"}
+{
+    as: 'AS41733 JSC "ER-Telecom Holding"',
+    asname: 'ZTELECOM-AS',
+    city: 'St Petersburg',
+    continent: 'Europe',
+    continentCode: 'EU',
+    country: 'Russia',
+    countryCode: 'RU',
+    currency: 'RUB',
+    district: '',
+    hosting: false,
+    isp: 'Z-Telecom',
+    lat: 59.8983,
+    lon: 30.2618,
+    mobile: false,
+    offset: 10800,
+    org: 'JSC ER-Telecom',
+    proxy: false,
+    query: '5.18.252.218',
+    region: 'SPE',
+    regionName: 'St.-Petersburg',
+    status: 'success',
+    timezone: 'Europe/Moscow',
+    zip: '190990'
+}
