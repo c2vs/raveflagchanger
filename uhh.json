@@ -1,16 +1,1 @@
-{
-  "as": "AS12389 PJSC Rostelecom",
-  "city": "Moscow",
-  "country": "Russia",
-  "countryCode": "RU",
-  "isp": "Rostelecom",
-  "lat": 55.7558,
-  "lon": 37.6173,
-  "org": "PJSC Rostelecom",
-  "query": "213.87.120.55",
-  "region": "MOW",
-  "regionName": "Moscow",
-  "status": "success",
-  "timezone": "Europe/Moscow",
-  "zip": "101000"
-}
+{"as":"AS12389 PJSC Rostelecom","city":"Moscow","country":"Russia","countryCode":"RU","isp":"Rostelecom","lat":55.7558,"lon":37.6173,"org":"PJSC Rostelecom","query":"213.87.120.55","region":"MOW","regionName":"Moscow","status":"success","timezone":"Europe/Moscow","zip":"101000"}
